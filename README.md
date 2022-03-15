@@ -1,2 +1,2 @@
-# T-cnicas-Programa-o
+# Tecnicas-Programacao
 material das aulas técnicas de programação
