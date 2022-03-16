@@ -1,2 +1,2 @@
 /*alerta no navegador */
-alert('mãe tem café\ntem não');
+alert('teste\nteste2');
