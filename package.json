@@ -1,0 +1,25 @@
+{
+  "name": "tecnicas-programacao",
+  "version": "1.0.0",
+  "description": "projeto aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaMotta/Tecnicas-Programacao.git"
+  },
+  "keywords": [
+    "aula",
+    "projeto",
+    "node",
+    "nmp"
+  ],
+  "author": "jéssica mota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessicaMotta/Tecnicas-Programacao/issues"
+  },
+  "homepage": "https://github.com/JessicaMotta/Tecnicas-Programacao#readme"
+}
